@@ -1,0 +1,2 @@
+# nstart
+Initial configuration
